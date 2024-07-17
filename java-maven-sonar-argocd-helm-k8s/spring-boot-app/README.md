@@ -49,6 +49,9 @@ Hurray !! Access the application on `http://<ip-address>:8010`
 
 ## Next Steps
 
+Now, setup SonarQube:
+1. Install the 'SonarQube - Scanner' Plugin in Jenkins
+
 ### Configure a Sonar Server locally
 
 ```
